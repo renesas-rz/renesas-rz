@@ -14,3 +14,4 @@
 ### Online Resources
 * Renesas Official RZ MPU Website: [link](https://www.renesas.com/en/products/microcontrollers-microprocessors/rz-mpus)
 * Wiki site: [link](https://renesas-wiki.atlassian.net/wiki/spaces/REN/overview)
+
