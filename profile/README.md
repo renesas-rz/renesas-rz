@@ -9,25 +9,25 @@
 <tr>
 <th> Package </th>
 <th> URL </th>
-<th> Branch Information </th>
+<th> Information </th>
 </tr>
  <tr>
  <td> Linux Kernel </td>
  <td> https://github.com/renesas-rz/rz_linux-cip </td>
- <td> https://github.com/renesas-rz/rz_linux-cip/wiki </td>
+ <td> <a href=https://github.com/renesas-rz/rz_linux-cip/wiki> Description of branches </a> </td>
 </tr>
 </tr>
  <tr>
  <td> u-boot </td>
  <td> https://github.com/renesas-rz/renesas-u-boot-cip </td>
- <td> https://github.com/renesas-rz/renesas-u-boot-cip/wiki </td>
+ <td> <a href=https://github.com/renesas-rz/renesas-u-boot-cip/wiki> Description of branches </a> </td>
 </tr>
 
 </tr>
  <tr>
  <td> Trusted Firmware-A </td>
  <td> https://github.com/renesas-rz/rzg_trusted-firmware-a </td>
- <td> https://github.com/renesas-rz/rzg_trusted-firmware-a/wiki </td>
+ <td> <a href=https://github.com/renesas-rz/rzg_trusted-firmware-a/wiki> Description of branches </a> </td>
 </tr>
 
 </tr>
@@ -41,7 +41,7 @@
  <tr>
  <td> Boot Loader Programmer </td>
  <td> https://github.com/renesas-rz/rzg2_flash_writer </td>
- <td> https://github.com/renesas-rz/rzg2_flash_writer/wiki </td>
+ <td> <a href=https://github.com/renesas-rz/rzg2_flash_writer/wiki> Description of branches </a> </td>
 </tr>
 
 </table>
