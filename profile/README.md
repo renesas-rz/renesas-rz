@@ -49,6 +49,7 @@
 
 
 ### Online Resources
-* Renesas Official RZ MPU Website: [link](https://www.renesas.com/en/products/microcontrollers-microprocessors/rz-mpus)
+* Renesas Official RZ MPU Device Website: [link](https://www.renesas.com/en/products/microcontrollers-microprocessors/rz-mpus)
+* Renesas RZ Linux Solutions Download Page [link](https://renesas-rz.github.io/rz_solution/)
 * Wiki site: [link](https://renesas-wiki.atlassian.net/wiki/spaces/REN/overview)
 
